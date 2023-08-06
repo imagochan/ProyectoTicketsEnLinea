@@ -1,7 +1,7 @@
 # ProyectoTicketsEnLinea
 Proyecto madre que hostea los links a los aplicativos necesarios e instrucciones para el proyecto.
 
-##Pasos para usar para compilar y usar la app
+## Pasos para usar para compilar y usar la app
  - Ejecutar el comando "npm install" en la raiz del proyecto en una terminal para obtener todas las dependencias necesarias del proyecto
  - Crear un proyecto en firebase en modo de prueba para utilizar en el servidor
  - Una vez creado el proyecto, ingresamos a la página de inicio del mismo y creamos una base de datos "FireStore"
